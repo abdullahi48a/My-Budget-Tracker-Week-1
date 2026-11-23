@@ -1,0 +1,50 @@
+
+/* Style the whole page */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 20px;
+}
+
+/* Style the main heading */
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+/* Style the Add Expense section */
+.add-expense-section {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+/* Style the Your Expenses section */
+.expenses-section {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+/* Style all input fields */
+input {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-top: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+/* Style section headings */
+h2 {
+    color: darkgreen;
+}
+
+/* ID selector */
+#expense-name {
+    background-color: #f0f8ff;
+}
